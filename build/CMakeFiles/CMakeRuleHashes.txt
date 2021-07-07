@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+fb73e383baf70747832bc7420946d0ae CMakeFiles/ethminer-buildinfo-git
+f2f7be8ff9fa027e331bcf638591b03c ethminer/buildinfo.c
+736f138c752c68794c993a59289456c4 libethash-cl/CMakeFiles/clbin2h_stable
+cf85b611dd9f5f961bab2d2932745fe0 libethash-cl/ethash.h

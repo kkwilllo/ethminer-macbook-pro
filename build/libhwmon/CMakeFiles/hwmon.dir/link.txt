@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libhwmon.a CMakeFiles/hwmon.dir/wraphelper.cpp.o CMakeFiles/hwmon.dir/wrapnvml.cpp.o CMakeFiles/hwmon.dir/wrapadl.cpp.o CMakeFiles/hwmon.dir/wrapamdsysfs.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libhwmon.a

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libdevcore.a CMakeFiles/devcore.dir/CommonData.cpp.o CMakeFiles/devcore.dir/FixedHash.cpp.o CMakeFiles/devcore.dir/Log.cpp.o CMakeFiles/devcore.dir/Worker.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libdevcore.a

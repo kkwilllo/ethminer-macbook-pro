@@ -1,0 +1,10 @@
+{
+  "name": "ethminer",
+  "version": "0.19.0-20+commit.de003464.dirty",
+  "is_prerelease": true,
+  "commit": "de003464a9f63bc1b48a39c3459fb6a6f297afa4",
+  "branch": "master",
+  "repo": "https://kkwilllo@github.com/kkwilllo/ethminer-macbook-pro.git",
+  "system_name": "darwin",
+  "system_processor": "x86_64"
+}

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libethcore.a CMakeFiles/ethcore.dir/EthashAux.cpp.o CMakeFiles/ethcore.dir/Farm.cpp.o CMakeFiles/ethcore.dir/Miner.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libethcore.a

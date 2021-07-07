@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc ethminer/libethminer-buildinfo.a CMakeFiles/ethminer-buildinfo.dir/ethminer/buildinfo.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib ethminer/libethminer-buildinfo.a
