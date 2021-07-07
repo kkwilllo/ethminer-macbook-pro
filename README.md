@@ -1,3 +1,38 @@
+# Summary
+
+## Description
+
+* This is a Mac Supported Version of ethminer
+* I made it for personal interest
+* I refer a lot of reference, so may not be the clearest version
+* If you think my version helpful, you can support me to continue my development
+* BTC [34FM9vdxp4MnWyh3bbk6NQuWACvXxHuGD3] | ETH [0xa983b55177ea656dacfb808b06a574ef8fb3952c]
+
+## Updated @20210707
+
+* Enable Detection Of Mac GPU (Tested with Intel(R) Iris(TM) Plus Graphics 655 OpenCL 1.2  Memory : 1.50 GB)
+* Turn On OpenCL Option
+* Turn Off API Server/ Cuda Function
+* Update necessary library
+
+## Guide To Build
+
+```mkdir build; cd build
+sudo cmake ..  
+make -j8
+cmake --build .
+```
+
+## Guide To Run
+```./ethminer -P stratum1+tcp://0xa983b55177ea656dacfb808b06a574ef8fb3952c.WORKER01@eth.2miners.com:2020
+```
+
+## Note
+
+* Mac GPU may not have enough memory, for example as of 20210707, ETH mining have Epoch 426 which requires 4.33 GB memory. However, only 1.50 GB available on (Iris(TM) Plus Graphics 655 )
+
+======
+
 # ethminer
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
