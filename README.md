@@ -24,6 +24,7 @@ cmake --build .
 ```
 
 ## Guide To Run
+
 ```./ethminer -P stratum1+tcp://0xa983b55177ea656dacfb808b06a574ef8fb3952c.WORKER01@eth.2miners.com:2020
 ```
 
