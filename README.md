@@ -35,7 +35,9 @@ ethminer -P stratum1+tcp://0xa983b55177ea656dacfb808b06a574ef8fb3952c.WORKER01@e
 
 * Mac GPU may not have enough memory, for example as of 20210707, ETH mining have Epoch 426 which requires 4.33 GB memory. However, only 1.50 GB available on (Iris(TM) Plus Graphics 655 )
 
-======
+
+=========================================================
+
 
 # ethminer
 
