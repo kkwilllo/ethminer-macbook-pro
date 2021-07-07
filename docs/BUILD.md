@@ -141,7 +141,7 @@ cmake .. -DETHASHCUDA=ON -DETHASHCL=OFF
 ```
 
 * `-DETHASHCL=ON` - enable OpenCL mining, `ON` by default.
-* `-DETHASHCUDA=ON` - enable CUDA mining, `ON` by default.
+* `-DETHASHCUDA=OFF` - enable CUDA mining, `ON` by default.
 * `-DAPICORE=ON` - enable API Server, `ON` by default.
 * `-DBINKERN=ON` - install AMD binary kernels, `ON` by default.
 * `-DETHDBUS=ON` - enable D-Bus support, `OFF` by default.
