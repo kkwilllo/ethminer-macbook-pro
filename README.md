@@ -15,6 +15,13 @@
 * Turn Off API Server/ Cuda Function
 * Update necessary library
 
+## Updated @20210729
+
+Tested with UBIQ, and example as below:
+* https://ubq.crazypool.org/#/account/0xd586725fcd4e728d8a27ba9d8160b8e8314ba920
+* ./ethminer -P stratum2+tcp://0xd586725fcd4e728d8a27ba9d8160b8e8314ba920.workwork666@asia.crazypool.org:3335
+* You can use the binary I uploaded under the folder "build/ethminer", so you dont need to compile again
+
 ## Guide To Build
 
 ```mkdir build; cd build
